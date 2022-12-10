@@ -1,0 +1,14 @@
+{
+    "payload" : {
+        "sender" : "Mac address",
+        "len" : 0,
+        "data" : {
+            "sn" : 0,
+            "op" : "pub",
+            "topic" : "home/topic",
+            "mesg" : "as sent to MQTT"
+        }
+    },
+    "port" : "",
+    "_msgid" : ""
+}
